@@ -1,0 +1,22 @@
+form.token-main .form-group label {
+    color: #fff;
+    display: flex;
+}
+form.token-main p {
+    display: flex;
+    font-weight: 600;
+    color: #faa340;
+}
+.balance-details {
+    display: flex;
+    justify-content: space-between;
+}
+.token-button {
+    display: flex;
+}
+input[type="text"], select option , textarea {
+
+    background-color : #d1d1d1; 
+  
+  }
+

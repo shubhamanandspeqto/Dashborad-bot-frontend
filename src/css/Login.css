@@ -1,0 +1,17 @@
+.discord-login-body p{
+    color: #fff;
+    margin-bottom: 48px;
+    font-size: 34px;
+    font-weight: 700;
+}
+.discord-login-button {
+    display: flex;
+    justify-content: center;
+}
+.discord-login-button button {
+    background: #faa340;
+    display: flex;
+    align-items: center;
+    padding: 0 33px;
+    font-weight: 700;
+}
